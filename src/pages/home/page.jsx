@@ -20,7 +20,7 @@ import Timeline from '../../components/Timeline/Timeline'
 import { Button } from 'antd'
 import {motion} from 'framer-motion'
 import { useState } from 'react'
-import { Fade } from 'react-reveal';
+import { Fade } from 'react-awesome-reveal';
 import { AttentionSeeker } from 'react-awesome-reveal'
 
 const Home = () => {
